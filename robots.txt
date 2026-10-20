@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eedd1103.github.io/la-vigne-dabord/sitemap.xml
